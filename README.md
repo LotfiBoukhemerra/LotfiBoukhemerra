@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LotfiBoukhemerra
-- 👀 I’m interested in softawe development 💻, design 🎨.
+- 👀 I’m interested in software development 💻, ans graphic design 🎨.
 - 👨‍💻 I use Java, python, JavaScript....
 - 🌱 I’m currently learning fullstack development and UX/UI
 - 📫 How to reach me: @lotfi_bkmr
