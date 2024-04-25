@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lotfi Boukhemerra (@lotfi_bkmr)
 - 👀 I work as a software development 💻, graphic design 🎨 and author 📝
-- 👨‍💻 I use Java, python, JavaScript....
-- 🌱 I’m currently learning fullstack development and UX/UI
+- 👨‍💻 I use Java, Python, JavaScript, Dart, Flutter, HTML5, CSS3...etc
+- 🌱 I’m currently learning UI/UX design
 - 📫 How to reach me: @lotfi_bkmr
 - 📌 My other interest: reading, Poetry, travel. 
 
