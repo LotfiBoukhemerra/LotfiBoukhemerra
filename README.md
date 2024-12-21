@@ -1,6 +1,5 @@
-# Lotfi Boukhemerra (@lotfi_bkmr)
+## Lotfi Boukhemerra (@lotfi_bkmr)
 
-## Welcome to My GitHub Profile
 
 ### 👋 About Me
 Hello! I'm Lotfi Boukhemerra. I love working in software development, graphic design, and writing. I enjoy using my skills to create meaningful projects.
