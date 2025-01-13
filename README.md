@@ -1,4 +1,4 @@
-## Lotfi Boukhemerra (@lotfi_bkmr) | eldev
+## Lotfi Boukhemerra (@lotfi_bkmr) | <e/dev>
 
 
 ### 👋 About Me
